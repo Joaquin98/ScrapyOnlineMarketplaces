@@ -1,0 +1,64 @@
+[
+
+	{
+		"id" : 4,
+		"name" : "Congelados",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-congelados/_/N-1xgbihs;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 1,
+		"name" : "Almacen",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-almacén/_/N-8pub5z;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 2,
+		"name" : "Bebidas",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-bebidas/_/N-1c1jy9y;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 3,
+		"name" : "Frescos",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-frescos/_/N-1ewuqo6;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+
+	{
+		"id" : 5,
+		"name" : "Limpieza",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-limpieza/_/N-nityfw;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 6,
+		"name" : "Perfumeria",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-perfumería/_/N-cblpjz;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 7,
+		"name" : "Electro",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-electro/_/N-1ngpk59;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 8,
+		"name" : "Textil",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-textil/_/N-l8joi7;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 9,
+		"name" : "Hogar",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-hogar/_/N-qa34ar;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	},
+	{
+		"id" : 10,
+		"name" : "Aire_Libre",
+		"link" : "https://www.cotodigital3.com.ar/sitios/cdigi/browse/catalogo-aire-libre/_/N-w7wnle;jsessionid=VWlOzSikTPmbbPO2hvk0it9uDQOoP6cjTR1uHewPwgshuJv0mbeC!-2124191138!-845281502?Nf=product.endDate%7CGTEQ+1.6717536E12%7C%7Cproduct.startDate%7CLTEQ+1.6717536E12%7C%7Cproduct.endDate%7CGTEQ+1.6720128E12%7C%7Cproduct.startDate%7CLTEQ+1.6720128E12&Nr=AND%28product.language%3Aespa%C3%B1ol%2Cproduct.sDisp_200%3A1004%2COR%28product.siteId%3ACotoDigital%29%29",
+		"date" : "2022-12-26 11:20:37"
+	}
+]
