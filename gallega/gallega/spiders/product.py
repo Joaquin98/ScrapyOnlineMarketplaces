@@ -68,6 +68,7 @@ class ProductSpider(scrapy.Spider):
             '//div[@id="Resultados"]//li[contains(@class,"cuadProd")]')
 
         try:
+            # A partir de catg2 todos son catg2 con cual habría que buscar //div[contains(@class,"categ")]/text() y concatenar todo
             self.category = re.sub(
                 r'\W+', '',  response.xpath('//div[@class="categ1"]/text()').get())
             cat2 = response.xpath('//div[@class="categ2"]/text()').get()
